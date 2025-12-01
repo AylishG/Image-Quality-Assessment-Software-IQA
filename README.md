@@ -7,3 +7,4 @@ IDE - Spyder (anaconda 3)
 Language - python version 3.9  
 GUI - Tkinter  
 
+![Screenshot](Screenshots/Screenshot_20221215_092712.png)  
