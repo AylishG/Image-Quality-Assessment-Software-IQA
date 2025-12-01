@@ -7,4 +7,18 @@ IDE - Spyder (anaconda 3)
 Language - python version 3.9  
 GUI - Tkinter  
 
-![screenshots](screenshots/Screenshot_20221215_092712.png)  
+# Result  
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/Screenshot_20221215_092047.png" width="400"><br>
+      <em>Result 1: Main Interface of IQA with clean image</em>
+    </td>
+    <td align="center">
+      <img src="screenshots/Screenshot_20221215_092712.png" width="400"><br>
+      <em>Result 2: Converted Clean image to Blurry</em>
+    </td>
+  </tr>
+</table>  
+
